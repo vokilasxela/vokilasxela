@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vokilasxela
+- 👋 Hi, I’m Alex aka @vokilasxela, I live in Auckland, New Zealand
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Analysis, Python and more
 - 💞️ I’m looking to collaborate on Python projects and more
